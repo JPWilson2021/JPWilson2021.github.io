@@ -6,21 +6,24 @@ body {
   p {font-size: 16px;}
   .margin {margin-bottom: 45px;}
   .bg-1 { 
-    background-color: #695954; /* Green */
+    background-color: #695954; 
     color: #ffffff;
     text-align: center;
   }
   
   .bg-2 { 
-    background-color: #edd5bf; /* Dark Blue */
+    background-color: #edd5bf; 
     color: #695954;
   }
   .bg-3 { 
-    background-color: #ffffff; /* White */
+    background-color: #ffffff; 
     color: #555555;
   }
-  .bg-4 { 
-    background-color: #695954; /* Black Gray */
+  .bg-4 {
+      background-color: #2c201e;
+  }
+  .bg-5 { 
+    background-color: #695954; 
     color: #fff;
   }
   .container-fluid {
