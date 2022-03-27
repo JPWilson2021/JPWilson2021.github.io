@@ -278,13 +278,13 @@ input:focus, textarea:focus, select:focus, button:focus {
     left: 50px;
     top: 50px;
     z-index: 2;
-  /* -webkit-animation: rotate 2s linear infinite;
+  -webkit-animation: rotate 2s linear infinite;
   -moz-animation: rotate 2s linear infinite;
   -o-animation: rotate 2s linear infinite;
   -ms-animation: rotate 2s linear infinite;
   animation: rotate 2s linear infinite; */
 }
-/* @-webkit-keyframes rotate {
+ @-webkit-keyframes rotate {
   100% {
     -webkit-transform: rotatey(360deg);
   }
